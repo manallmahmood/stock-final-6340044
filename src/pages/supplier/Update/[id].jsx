@@ -97,7 +97,7 @@ export default function Supplier({ supplier }) {
 }
 
 export async function getServerSideProps({ params }) {
-  const res = await fetch(`http://localhost:3000/api/supplier/${params.id}`);
+  const res = await fetch(`https://stock-final-6340044.vercel.app/api/supplier/${params.id}`);
   const supplier = await res.json();
   return { props: { supplier } };
 }
