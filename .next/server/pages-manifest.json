@@ -1,0 +1,13 @@
+{
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/api/supplier/[id]": "pages/api/supplier/[id].js",
+  "/api/supplier": "pages/api/supplier.js",
+  "/supplier": "pages/supplier.html",
+  "/": "pages/index.html",
+  "/supplier/[id]": "pages/supplier/[id].js",
+  "/supplier/Update/[id]": "pages/supplier/Update/[id].js",
+  "/404": "pages/404.html"
+}
