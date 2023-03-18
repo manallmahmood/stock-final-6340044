@@ -1,5 +1,5 @@
 {
-  "name": "final6340044",
+  "name": "stock-final-6410381",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/font": "13.2.4",
+    "@chakra-ui/react": "^2.5.2",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "bootstrap": "^5.2.3",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "framer-motion": "^4.1.17",
+    "mongoose": "^7.0.2",
     "next": "13.2.4",
-    "react": "18.2.0",
+    "next-auth": "^4.20.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.43.7"
   }
