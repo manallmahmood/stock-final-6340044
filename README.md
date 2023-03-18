@@ -2,7 +2,7 @@
 ## Supplier Management
 
 # Project Details:
-This project is a final exam for Web App Development class in Assumption University, which is made for managing suppliers and their details and also adding new suppliers for a stock based idea. The details include the supplier's name, address and email.
+This project is a final exam for Web App Development class in Assumption University, which is made for managing suppliers and their details and also adding new suppliers for a stock based idea. The details include the supplier's name, address and email, and is deployed through Vercel
 
 # Functionality:
 
